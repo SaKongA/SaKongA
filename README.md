@@ -2,7 +2,7 @@
 ![](https://count.getloli.com/get/@ZhcnPanda?theme=gelbooru)
 
 # XD，摸鱼党一枚~
-[![我的Information](https://github-readme-stats.vercel.app/api?username=ZhcnPanda&show_icons=true&count_private=true&bg_color=130,0a8f08,2baf2b&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![我的Information](https://github-readme-stats.vercel.app/api?username=SaKongA&show_icons=true&count_private=true&bg_color=130,0a8f08,2baf2b&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![使用最多的Github语言](https://github-readme-stats.vercel.app/api/top-langs/?username=SaKongA)](https://github.com/anuraghazra/github-readme-stats)
 

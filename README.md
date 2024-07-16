@@ -13,6 +13,7 @@
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
+![](https://raw.githubusercontent.com/SaKongA/SaKongA/main/assets/github-contribution-grid-snake.svg)
 
 - **🛫Telegram:** [@SaKongA](https://t.me/SaKongA)
 
